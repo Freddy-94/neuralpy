@@ -1,5 +1,5 @@
 from setuptools import find_packages, setup
-print find_packages(exclude=['DEPneuralpy'])
+print(find_packages(exclude=['DEPneuralpy']))
 setup(
 	name='neuralpy',
 	version='1.3.0',
